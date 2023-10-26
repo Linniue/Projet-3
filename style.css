@@ -1,3 +1,39 @@
-p {
-    color: red;
-  }
+body{background-color: rgb(1, 14, 22);
+    
+                                                
+                                                
+    }
+header {
+    display: flex;
+    justify-content: center;
+    font-family: 'LT Binary Neue', sans-serif;
+    
+}
+header h1{
+    color:rgb(42, 138, 155)
+    
+                                                 
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    
+    font-family: 'LT Binary Neue', sans-serif;
+}
+
+nav a {
+    color:rgb(154, 190, 186);
+    text-decoration: none;
+}
+
+p{
+    color:rgb(239, 240, 228);
+    display: flex;
+    justify-content: center;
+    font-family: 'LT Binary Neue', sans-serif;
+
+}
+
