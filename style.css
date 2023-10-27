@@ -32,6 +32,18 @@ nav a {
 p{
     color:rgb(239, 240, 228);
     display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    flex-direction: column;
+    font-family: 'LT Binary Neue', sans-serif;
+    font-size:small
+
+}
+.encadrer-un-contenu{ border: 1px solid rgb(132, 133, 125); padding: 5px; } 
+
+h3{
+    color:rgb(239, 240, 228);
+    display: flex;
     justify-content: center;
     font-family: 'LT Binary Neue', sans-serif;
 
